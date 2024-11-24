@@ -13,6 +13,8 @@
 git clone https://github.com/yourusername/messy-buster.git
 cd messy-buster
 cargo build --release
+
+<build-path>/messy-buster -d <path_your_directory> --save
 ```
 
 ## 使い方
